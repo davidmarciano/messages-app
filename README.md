@@ -2,7 +2,7 @@
 This project is the UI part of messages app which communicate with messages-app-service to complete a full stack application.
 The project created with create-react-app, use Axios to communicate with the server and styled components for styling.
 
-# Structure
+# Project structure
 There are 3 main components which helps the app works.
 
 1. App.js - Is where you can find all the logic and application state changes. It's use the api.js helper to communicate with the server.
