@@ -15,3 +15,9 @@ There are 3 main components which helps the app works:
 
 3. MessagesSection.js - Also a presentational component which gets all parameters and functionallity from App.js. This section has 2 main    parts - Filter input to filter search terms from the given data of the MessagesBox.
    MessagesBox which show the data of the users comments.
+
+# Running instructions
+
+Download the project to you computer, install the modules by typing 'npm install'.
+before running it you should run the messages-app-service and point to it.
+Goes to api.js under src/api and change the url parameter to the relevant enviroment. After that you can 'npm start'.
